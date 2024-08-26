@@ -1,0 +1,1 @@
+Map of air traffic registered in Spanish airports in 2023.
